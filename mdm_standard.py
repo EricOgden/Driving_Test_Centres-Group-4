@@ -40,7 +40,7 @@ print(df[['Location', 'Difficulty Score']].head())
 df.to_csv('updated_test_centers.csv', index=False)
 
 
-# uses difficulty score and pass rates to fit a line of best fit
+# uses difficulty score and pass rates to create a line of best fit
 data = df[['pass rates', 'Difficulty Score']].dropna()
 X = data[['Difficulty Score']]
 y = data['pass rates']
@@ -48,7 +48,7 @@ model = LinearRegression()
 model.fit(X, y)
 predicted = model.predict(X)
 
-# plotting line of best fit
+# plotting line of best fit 
 plt.plot(X, predicted, color='red', label='Best Fit Line')
 plt.xlabel('Difficulty Score')
 plt.ylabel('Pass Rates (%)')
