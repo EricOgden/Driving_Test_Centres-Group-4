@@ -1,0 +1,122 @@
+{
+    "Benbecula": {
+        "roundabout_count": 0,
+        "mini_roundabout_count": 0,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 0
+    },
+    "Barra": {
+        "roundabout_count": 0,
+        "mini_roundabout_count": 0,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 0
+    },
+    "Mallaig": {
+        "roundabout_count": 1,
+        "mini_roundabout_count": 0,
+        "dual_carriageway_count": 1,
+        "all_junction_count": 0
+    },
+    "Gairloch": {
+        "roundabout_count": 0,
+        "mini_roundabout_count": 0,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 0
+    },
+    "Isles of Scilly": {
+        "roundabout_count": 0,
+        "mini_roundabout_count": 0,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 0
+    },
+    "Inveraray": {
+        "roundabout_count": 0,
+        "mini_roundabout_count": 0,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 0
+    },
+    "Forfar": {
+        "roundabout_count": 5,
+        "mini_roundabout_count": 5,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 0
+    },
+    "Abroath": {
+        "roundabout_count": 163,
+        "mini_roundabout_count": 37,
+        "dual_carriageway_count": 99,
+        "all_junction_count": 7
+    },
+    "Ullapool": {
+        "roundabout_count": 0,
+        "mini_roundabout_count": 1,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 0
+    },
+    "Ballater": {
+        "roundabout_count": 0,
+        "mini_roundabout_count": 0,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 0
+    },
+    "Luton": {
+        "roundabout_count": 215,
+        "mini_roundabout_count": 81,
+        "dual_carriageway_count": 73,
+        "all_junction_count": 26
+    },
+    "Cannock": {
+        "roundabout_count": 94,
+        "mini_roundabout_count": 74,
+        "dual_carriageway_count": 49,
+        "all_junction_count": 30
+    },
+    "Crawley": {
+        "roundabout_count": 238,
+        "mini_roundabout_count": 37,
+        "dual_carriageway_count": 66,
+        "all_junction_count": 37
+    },
+    "Wednesbury": {
+        "roundabout_count": 440,
+        "mini_roundabout_count": 93,
+        "dual_carriageway_count": 334,
+        "all_junction_count": 71
+    },
+    "Norris Green": {
+        "roundabout_count": 86,
+        "mini_roundabout_count": 38,
+        "dual_carriageway_count": 86,
+        "all_junction_count": 15
+    },
+    "Chingford": {
+        "roundabout_count": 155,
+        "mini_roundabout_count": 84,
+        "dual_carriageway_count": 83,
+        "all_junction_count": 43
+    },
+    "Belvedere": {
+        "roundabout_count": 379,
+        "mini_roundabout_count": 90,
+        "dual_carriageway_count": 113,
+        "all_junction_count": 46
+    },
+    "Featherstone": {
+        "roundabout_count": 262,
+        "mini_roundabout_count": 47,
+        "dual_carriageway_count": 133,
+        "all_junction_count": 17
+    },
+    "Speke": {
+        "roundabout_count": 38,
+        "mini_roundabout_count": 15,
+        "dual_carriageway_count": 3,
+        "all_junction_count": 1
+    },
+    "Wolverhampton": {
+        "roundabout_count": 436,
+        "mini_roundabout_count": 83,
+        "dual_carriageway_count": 275,
+        "all_junction_count": 59
+    }
+}

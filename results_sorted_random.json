@@ -1,0 +1,68 @@
+{
+    "Yeovil": {
+        "roundabout_count": 49,
+        "mini_roundabout_count": 13,
+        "dual_carriageway_count": 39,
+        "all_junction_count": 1
+    },
+    "Grantown-On-Spey": {
+        "roundabout_count": 2,
+        "mini_roundabout_count": 0,
+        "dual_carriageway_count": 1,
+        "all_junction_count": 0
+    },
+    "Bristol (Avonmouth)": {
+        "roundabout_count": 67,
+        "mini_roundabout_count": 27,
+        "dual_carriageway_count": 58,
+        "all_junction_count": 43
+    },
+    "Boston": {
+        "roundabout_count": 25,
+        "mini_roundabout_count": 14,
+        "dual_carriageway_count": 9,
+        "all_junction_count": 0
+    },
+    "Hornchurch (London)": {
+        "roundabout_count": 126,
+        "mini_roundabout_count": 50,
+        "dual_carriageway_count": 55,
+        "all_junction_count": 16
+    },
+    "Eastbourne": {
+        "roundabout_count": 65,
+        "mini_roundabout_count": 21,
+        "dual_carriageway_count": 17,
+        "all_junction_count": 2
+    },
+    "Slough (London)": {
+        "roundabout_count": 130,
+        "mini_roundabout_count": 61,
+        "dual_carriageway_count": 95,
+        "all_junction_count": 59
+    },
+    "Heckmondwike": {
+        "roundabout_count": 61,
+        "mini_roundabout_count": 27,
+        "dual_carriageway_count": 57,
+        "all_junction_count": 21
+    },
+    "Birmingham (Garretts Green)": {
+        "roundabout_count": 361,
+        "mini_roundabout_count": 103,
+        "dual_carriageway_count": 172,
+        "all_junction_count": 73
+    },
+    "Nottingham (Chilwell)": {
+        "roundabout_count": 141,
+        "mini_roundabout_count": 28,
+        "dual_carriageway_count": 111,
+        "all_junction_count": 79
+    },
+    "Rochdale (Manchester)": {
+        "roundabout_count": 59,
+        "mini_roundabout_count": 39,
+        "dual_carriageway_count": 0,
+        "all_junction_count": 28
+    }
+}
